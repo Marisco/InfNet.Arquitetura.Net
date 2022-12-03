@@ -1,0 +1,12 @@
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\bin\Debug\net7.0\ToDo.Domain.deps.json
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\bin\Debug\net7.0\ToDo.Domain.dll
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\bin\Debug\net7.0\ToDo.Domain.pdb
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.csproj.AssemblyReference.cache
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.AssemblyInfoInputs.cache
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.AssemblyInfo.cs
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.dll
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\refint\ToDo.Domain.dll
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ToDo.Domain.pdb
+D:\INFNET\Arquitetura.Net\ToDo\ToDo.Domain\obj\Debug\net7.0\ref\ToDo.Domain.dll

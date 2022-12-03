@@ -1,0 +1,5 @@
+D:\INFNET\Arquitetura.Net\ToDo\ToDoApplication\obj\Debug\net7.0\ToDoApplication.csproj.AssemblyReference.cache
+D:\INFNET\Arquitetura.Net\ToDo\ToDoApplication\obj\Debug\net7.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\INFNET\Arquitetura.Net\ToDo\ToDoApplication\obj\Debug\net7.0\ToDoApplication.AssemblyInfoInputs.cache
+D:\INFNET\Arquitetura.Net\ToDo\ToDoApplication\obj\Debug\net7.0\ToDoApplication.AssemblyInfo.cs
+D:\INFNET\Arquitetura.Net\ToDo\ToDoApplication\obj\Debug\net7.0\ToDoApplication.csproj.CoreCompileInputs.cache

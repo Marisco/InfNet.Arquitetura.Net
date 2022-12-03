@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ToDo.Application.Dtos.Item.ItemResponseDTO >
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>
+    <a asp-action="Create">Adicionar tarefa</a>
+</p>
+
+<table id="item" class="table">
+    <thead>
+        <tr class="">
+            <th>Descrição</th>
+            <th>Data de criação</th>
+            <th>Status</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="display: none;">@item.Id</td>
+                <td>@item.Description</td>
+                <td>@item.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                <td><input asp-action="Edit" type="checkbox" disabled @(item.Done ? "checked" : "") />@(item.Done ? " Done" : " ToDo") </td>
+                <td>
+                    <a asp-controller="Item" asp-action="Edit" asp-route-id="@item.Id"> Alterar Status</a>
+                    <a asp-controller="Item" asp-action="Delete" asp-route-id="@item.Id"> Excluir</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function add() {
+        window.location.href = ''
+    }
+</script>
